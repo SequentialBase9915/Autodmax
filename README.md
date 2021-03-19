@@ -29,3 +29,6 @@ progmem: https://github.com/progmem/Switch-Fightstick
 上の二つのプロジェクトのベースとなっています。以下のリンクがそのプロジェクトを紹介しています。  
 Inspiration for above work, link describing project shown below.  
 https://blog.feelmy.net/control-nintendo-switch-from-computer/  
+
+Pokemon Automation team: https://github.com/PokemonAutomation/AutoMaxLair  
+Thanks to the team here for amazing ideas in the chat such as ball-saver mode etc.! This is a much more robust and feature capable solution, if you want something out of the box look here!  
